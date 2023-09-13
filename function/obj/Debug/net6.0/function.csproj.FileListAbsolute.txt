@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\function\bin\Debug\net6.0\function.exe
+C:\Users\hp\source\repos\function\bin\Debug\net6.0\function.deps.json
+C:\Users\hp\source\repos\function\bin\Debug\net6.0\function.runtimeconfig.json
+C:\Users\hp\source\repos\function\bin\Debug\net6.0\function.dll
+C:\Users\hp\source\repos\function\bin\Debug\net6.0\function.pdb
+C:\Users\hp\source\repos\function\obj\Debug\net6.0\function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\function\obj\Debug\net6.0\function.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\function\obj\Debug\net6.0\function.AssemblyInfo.cs
+C:\Users\hp\source\repos\function\obj\Debug\net6.0\function.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\function\obj\Debug\net6.0\function.dll
+C:\Users\hp\source\repos\function\obj\Debug\net6.0\refint\function.dll
+C:\Users\hp\source\repos\function\obj\Debug\net6.0\function.pdb
+C:\Users\hp\source\repos\function\obj\Debug\net6.0\function.genruntimeconfig.cache
+C:\Users\hp\source\repos\function\obj\Debug\net6.0\ref\function.dll

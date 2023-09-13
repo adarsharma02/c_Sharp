@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\mehtods\bin\Debug\net6.0\mehtods.exe
+C:\Users\hp\source\repos\mehtods\bin\Debug\net6.0\mehtods.deps.json
+C:\Users\hp\source\repos\mehtods\bin\Debug\net6.0\mehtods.runtimeconfig.json
+C:\Users\hp\source\repos\mehtods\bin\Debug\net6.0\mehtods.dll
+C:\Users\hp\source\repos\mehtods\bin\Debug\net6.0\mehtods.pdb
+C:\Users\hp\source\repos\mehtods\obj\Debug\net6.0\mehtods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\mehtods\obj\Debug\net6.0\mehtods.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\mehtods\obj\Debug\net6.0\mehtods.AssemblyInfo.cs
+C:\Users\hp\source\repos\mehtods\obj\Debug\net6.0\mehtods.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\mehtods\obj\Debug\net6.0\mehtods.dll
+C:\Users\hp\source\repos\mehtods\obj\Debug\net6.0\refint\mehtods.dll
+C:\Users\hp\source\repos\mehtods\obj\Debug\net6.0\mehtods.pdb
+C:\Users\hp\source\repos\mehtods\obj\Debug\net6.0\mehtods.genruntimeconfig.cache
+C:\Users\hp\source\repos\mehtods\obj\Debug\net6.0\ref\mehtods.dll

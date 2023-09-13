@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\TryandcaThC\bin\Debug\net6.0\TryandcaThC.exe
+C:\Users\hp\source\repos\TryandcaThC\bin\Debug\net6.0\TryandcaThC.deps.json
+C:\Users\hp\source\repos\TryandcaThC\bin\Debug\net6.0\TryandcaThC.runtimeconfig.json
+C:\Users\hp\source\repos\TryandcaThC\bin\Debug\net6.0\TryandcaThC.dll
+C:\Users\hp\source\repos\TryandcaThC\bin\Debug\net6.0\TryandcaThC.pdb
+C:\Users\hp\source\repos\TryandcaThC\obj\Debug\net6.0\TryandcaThC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\TryandcaThC\obj\Debug\net6.0\TryandcaThC.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TryandcaThC\obj\Debug\net6.0\TryandcaThC.AssemblyInfo.cs
+C:\Users\hp\source\repos\TryandcaThC\obj\Debug\net6.0\TryandcaThC.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TryandcaThC\obj\Debug\net6.0\TryandcaThC.dll
+C:\Users\hp\source\repos\TryandcaThC\obj\Debug\net6.0\refint\TryandcaThC.dll
+C:\Users\hp\source\repos\TryandcaThC\obj\Debug\net6.0\TryandcaThC.pdb
+C:\Users\hp\source\repos\TryandcaThC\obj\Debug\net6.0\TryandcaThC.genruntimeconfig.cache
+C:\Users\hp\source\repos\TryandcaThC\obj\Debug\net6.0\ref\TryandcaThC.dll

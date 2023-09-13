@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\catch\obj\Debug\net6.0\catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\catch\obj\Debug\net6.0\catch.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\catch\obj\Debug\net6.0\catch.AssemblyInfo.cs
+C:\Users\hp\source\repos\catch\obj\Debug\net6.0\catch.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\catch\bin\Debug\net6.0\catch.exe
+C:\Users\hp\source\repos\catch\bin\Debug\net6.0\catch.deps.json
+C:\Users\hp\source\repos\catch\bin\Debug\net6.0\catch.runtimeconfig.json
+C:\Users\hp\source\repos\catch\bin\Debug\net6.0\catch.dll
+C:\Users\hp\source\repos\catch\bin\Debug\net6.0\catch.pdb
+C:\Users\hp\source\repos\catch\obj\Debug\net6.0\catch.dll
+C:\Users\hp\source\repos\catch\obj\Debug\net6.0\refint\catch.dll
+C:\Users\hp\source\repos\catch\obj\Debug\net6.0\catch.pdb
+C:\Users\hp\source\repos\catch\obj\Debug\net6.0\catch.genruntimeconfig.cache
+C:\Users\hp\source\repos\catch\obj\Debug\net6.0\ref\catch.dll

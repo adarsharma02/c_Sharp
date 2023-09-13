@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\newProjt1\bin\Debug\net6.0\newProjt1.exe
+C:\Users\hp\source\repos\newProjt1\bin\Debug\net6.0\newProjt1.deps.json
+C:\Users\hp\source\repos\newProjt1\bin\Debug\net6.0\newProjt1.runtimeconfig.json
+C:\Users\hp\source\repos\newProjt1\bin\Debug\net6.0\newProjt1.dll
+C:\Users\hp\source\repos\newProjt1\bin\Debug\net6.0\newProjt1.pdb
+C:\Users\hp\source\repos\newProjt1\obj\Debug\net6.0\newProjt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\newProjt1\obj\Debug\net6.0\newProjt1.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\newProjt1\obj\Debug\net6.0\newProjt1.AssemblyInfo.cs
+C:\Users\hp\source\repos\newProjt1\obj\Debug\net6.0\newProjt1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\newProjt1\obj\Debug\net6.0\newProjt1.dll
+C:\Users\hp\source\repos\newProjt1\obj\Debug\net6.0\refint\newProjt1.dll
+C:\Users\hp\source\repos\newProjt1\obj\Debug\net6.0\newProjt1.pdb
+C:\Users\hp\source\repos\newProjt1\obj\Debug\net6.0\newProjt1.genruntimeconfig.cache
+C:\Users\hp\source\repos\newProjt1\obj\Debug\net6.0\ref\newProjt1.dll

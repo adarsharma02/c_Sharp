@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\DessisionM1\bin\Debug\net6.0\DessisionM1.exe
+C:\Users\hp\source\repos\DessisionM1\bin\Debug\net6.0\DessisionM1.deps.json
+C:\Users\hp\source\repos\DessisionM1\bin\Debug\net6.0\DessisionM1.runtimeconfig.json
+C:\Users\hp\source\repos\DessisionM1\bin\Debug\net6.0\DessisionM1.dll
+C:\Users\hp\source\repos\DessisionM1\bin\Debug\net6.0\DessisionM1.pdb
+C:\Users\hp\source\repos\DessisionM1\obj\Debug\net6.0\DessisionM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\DessisionM1\obj\Debug\net6.0\DessisionM1.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\DessisionM1\obj\Debug\net6.0\DessisionM1.AssemblyInfo.cs
+C:\Users\hp\source\repos\DessisionM1\obj\Debug\net6.0\DessisionM1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DessisionM1\obj\Debug\net6.0\DessisionM1.dll
+C:\Users\hp\source\repos\DessisionM1\obj\Debug\net6.0\refint\DessisionM1.dll
+C:\Users\hp\source\repos\DessisionM1\obj\Debug\net6.0\DessisionM1.pdb
+C:\Users\hp\source\repos\DessisionM1\obj\Debug\net6.0\DessisionM1.genruntimeconfig.cache
+C:\Users\hp\source\repos\DessisionM1\obj\Debug\net6.0\ref\DessisionM1.dll

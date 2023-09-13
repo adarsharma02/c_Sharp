@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\opRaTR\bin\Debug\net6.0\opRaTR.exe
+C:\Users\hp\source\repos\opRaTR\bin\Debug\net6.0\opRaTR.deps.json
+C:\Users\hp\source\repos\opRaTR\bin\Debug\net6.0\opRaTR.runtimeconfig.json
+C:\Users\hp\source\repos\opRaTR\bin\Debug\net6.0\opRaTR.dll
+C:\Users\hp\source\repos\opRaTR\bin\Debug\net6.0\opRaTR.pdb
+C:\Users\hp\source\repos\opRaTR\obj\Debug\net6.0\opRaTR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\opRaTR\obj\Debug\net6.0\opRaTR.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\opRaTR\obj\Debug\net6.0\opRaTR.AssemblyInfo.cs
+C:\Users\hp\source\repos\opRaTR\obj\Debug\net6.0\opRaTR.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\opRaTR\obj\Debug\net6.0\opRaTR.dll
+C:\Users\hp\source\repos\opRaTR\obj\Debug\net6.0\refint\opRaTR.dll
+C:\Users\hp\source\repos\opRaTR\obj\Debug\net6.0\opRaTR.pdb
+C:\Users\hp\source\repos\opRaTR\obj\Debug\net6.0\opRaTR.genruntimeconfig.cache
+C:\Users\hp\source\repos\opRaTR\obj\Debug\net6.0\ref\opRaTR.dll

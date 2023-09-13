@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\problem1\bin\Debug\net6.0\problem1.exe
+C:\Users\hp\source\repos\problem1\bin\Debug\net6.0\problem1.deps.json
+C:\Users\hp\source\repos\problem1\bin\Debug\net6.0\problem1.runtimeconfig.json
+C:\Users\hp\source\repos\problem1\bin\Debug\net6.0\problem1.dll
+C:\Users\hp\source\repos\problem1\bin\Debug\net6.0\problem1.pdb
+C:\Users\hp\source\repos\problem1\obj\Debug\net6.0\problem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\problem1\obj\Debug\net6.0\problem1.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\problem1\obj\Debug\net6.0\problem1.AssemblyInfo.cs
+C:\Users\hp\source\repos\problem1\obj\Debug\net6.0\problem1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\problem1\obj\Debug\net6.0\problem1.dll
+C:\Users\hp\source\repos\problem1\obj\Debug\net6.0\refint\problem1.dll
+C:\Users\hp\source\repos\problem1\obj\Debug\net6.0\problem1.pdb
+C:\Users\hp\source\repos\problem1\obj\Debug\net6.0\problem1.genruntimeconfig.cache
+C:\Users\hp\source\repos\problem1\obj\Debug\net6.0\ref\problem1.dll
